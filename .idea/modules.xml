@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dependecies/dependecies.iml" filepath="$PROJECT_DIR$/dependecies/dependecies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vul-admin-incubation/vul-admin.iml" filepath="$PROJECT_DIR$/vul-admin-incubation/vul-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vul-admin-front-incubation/vul-admin-front-incubation.iml" filepath="$PROJECT_DIR$/vul-admin-front-incubation/vul-admin-front-incubation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vul-api/vul-api.iml" filepath="$PROJECT_DIR$/vul-api/vul-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vul-console.iml" filepath="$PROJECT_DIR$/vul-console.iml" />
+    </modules>
+  </component>
+</project>
